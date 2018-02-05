@@ -1,0 +1,8 @@
+name: pandoc-mpl-test
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - numpy=1.14.0
+  - matplotlib=2.1.2
+  - pandoc=2.1.1
